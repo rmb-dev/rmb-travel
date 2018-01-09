@@ -706,14 +706,14 @@ img {
   min-height: 387px;
   margin: 0 auto;
   background-color: #cce0ec;
-  background-image: url("../img/bg-back-mobile@1x.jpg");
+  background-image: url("../images/bg-back-mobile@1x.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 765px auto;
 }
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), (min-resolution: 1.5dppx) {
   .main-image {
-    background-image: url("../img/bg-back-mobile@2x.jpg");
+    background-image: url("../images/bg-back-mobile@2x.jpg");
   }
 }
 .main-image__text {
@@ -726,7 +726,7 @@ img {
   width: auto;
   min-height: 158px;
   background-color: #cce0ec;
-  background-image: url("../img/bg-back-mobile@1x.jpg");
+  background-image: url("../images/bg-back-mobile@1x.jpg");
   background-repeat: no-repeat;
   background-position: 60% 80%;
   background-size: 765px auto;
