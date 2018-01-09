@@ -1467,7 +1467,7 @@ img {
 }
 @media (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1200px) and (min-resolution: 144dpi), (min-width: 1200px) and (min-resolution: 1.5dppx) {
   .map {
-    background-image: url("../img/bg-map-desktop@2x.jpg");
+    background-image: url("../images/bg-map-desktop@2x.jpg");
   }
 }
 .page-footer {
@@ -1570,31 +1570,31 @@ img {
   margin-left: 0;
 }
 .social__link--twitter {
-  background-image: url("../img/icon-twitter.svg");
+  background-image: url("../images/icon-twitter.svg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: 20px 20px;
 }
 .social__link--facebook {
-  background-image: url("../img/icon-facebook.svg");
+  background-image: url("../images/icon-facebook.svg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: 20px 20px;
 }
 .social__link--youtube {
-  background-image: url("../img/icon-youtube.svg");
+  background-image: url("../images/icon-youtube.svg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: 20px 20px;
 }
 .social__link--twitter:active {
-  background-image: url("../img/icon-twitter-op.svg");
+  background-image: url("../images/icon-twitter-op.svg");
 }
 .social__link--facebook:active {
-  background-image: url("../img/icon-facebook-op.svg");
+  background-image: url("../images/icon-facebook-op.svg");
 }
 .social__link--youtube:active {
-  background-image: url("../img/icon-youtube-op.svg");
+  background-image: url("../images/icon-youtube-op.svg");
 }
 @media (min-width: 768px) {
   .social {
@@ -2651,7 +2651,7 @@ img {
   right: 10px;
   bottom: 10px;
   left: 10px;
-  background: url("../img/icon-tick-op50.svg") 50% 50% no-repeat;
+  background: url("../images/icon-tick-op50.svg") 50% 50% no-repeat;
   background-size: 23px;
 }
 .form-check__checkbox:checked + .form-check__input::before {
@@ -2662,7 +2662,7 @@ img {
   right: 10px;
   bottom: 10px;
   left: 10px;
-  background: url("../img/icon-tick.svg") 50% 50% no-repeat;
+  background: url("../images/icon-tick.svg") 50% 50% no-repeat;
 }
 .form-check__input:hover,
 .form-check__input:focus {
