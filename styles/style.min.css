@@ -1355,7 +1355,6 @@ summary {
     flex: 2;
     margin: 0;
     padding-left: 10px;
-    text-align: left
   }
 }
 
@@ -1382,7 +1381,7 @@ summary {
     margin-top: 0
   }
   .page-footer__copyright {
-    text-align: right;
+    text-align: center;
     padding-right: 5px
   }
 }
@@ -1447,10 +1446,10 @@ summary {
 .copyright__text {
   display: inline-block;
   font-family: "PT Sans", "Arial", sans-serif;
+  font-weight: 900;
   font-size: 14px;
-  text-align: left;
-  margin: 0;
-  padding-right: 10px
+  text-align: center;
+  margin: 0
 }
 
 .copyright__link {
@@ -1459,18 +1458,6 @@ summary {
   display: inline-block;
   vertical-align: middle;
   margin: 10px 0 0
-}
-
-.copyright__logo {
-  fill: #000
-}
-
-.copyright__logo:hover {
-  fill: #81b3d2
-}
-
-.copyright__logo:active {
-  fill: #aeaeae
 }
 
 @media (min-width:768px) {
