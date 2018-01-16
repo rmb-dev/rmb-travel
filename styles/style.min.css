@@ -1461,16 +1461,8 @@ summary {
   margin: 10px 0 0
 }
 
-.copyright__logo {
-  fill: #000
-}
-
 .copyright__logo:hover {
-  fill: #81b3d2
-}
-
-.copyright__logo:active {
-  fill: #aeaeae
+  fill: #000000
 }
 
 @media (min-width:768px) {

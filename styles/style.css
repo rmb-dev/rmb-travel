@@ -1622,14 +1622,6 @@ img {
   margin: 0;
   margin-top: 10px;
 }
-.copyright__logo {
-  fill: #000000;
-}
-.copyright__logo:hover {
-  fill: #81b3d2;
-}
-.copyright__logo:active {
-  fill: #aeaeae;
 }
 @media (min-width: 768px) {
   .copyright__text {
