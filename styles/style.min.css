@@ -1460,6 +1460,13 @@ summary {
   margin: 10px 0 0
 }
 
+<<<<<<< HEAD
+=======
+.copyright__logo:hover {
+  fill: #000000
+}
+
+>>>>>>> 7364371eddc6316b3fd02e59b7cb7fa2f399258a
 @media (min-width:768px) {
   .copyright__text {
     padding-top: 10px
