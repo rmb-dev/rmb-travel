@@ -2480,7 +2480,7 @@ img {
   }
   .form-contact__phone {
     top: 7px;
-    left: 345px;
+    right: 0;
   }
 }
 .form-radio {
